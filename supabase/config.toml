@@ -1,0 +1,10 @@
+project_id = "pzhokmwitckroflhoqxt"
+
+[functions.etl-transport-data]
+verify_jwt = false
+
+[functions.analyze-companies]
+verify_jwt = false
+
+[functions.generate-predictions]
+verify_jwt = false
